@@ -8,7 +8,7 @@ import Color from "../../values/Colors";
 import Header from "../../component/items/widgets/Header";
 import Loader from "../../component/items/widgets/Loader";
 import Sort from "../../component/items/widgets/Sort";
-import AddProducts from "../../component/items/widgets/AddProducts";
+import AddProducts from "../../component/items/widgets/AddProduct";
 
 const MainLayout = (props) => {
 
